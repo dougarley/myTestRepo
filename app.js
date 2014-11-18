@@ -1,5 +1,5 @@
 var mainWindow = Ti.UI.createWindow({
-  backgroundColor : '#f00'
+  backgroundColor : '#fff'
 });
 
 var mainLabel = Ti.UI.createLabel({
